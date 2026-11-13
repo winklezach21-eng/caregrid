@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "CareGrid",
+    "slug": "caregrid",
+    "scheme": "caregrid",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourorganization.caregrid"
+    },
+    "android": {
+      "package": "com.yourorganization.caregrid"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
